@@ -1,0 +1,5 @@
+CREATE VIEW vw_CustomerData AS 
+	SELECT * FROM prod_CustomerData WHERE Customer_Status IN ('Churned', 'Stayed')
+
+CREATE VIEW vw_JoinData AS
+	SELECT * FROM prod_CustomerData WHERE Customer_Status = 'Joined'
