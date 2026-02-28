@@ -272,3 +272,5 @@ This project positions data as a **decision-enabling asset**, not just a reporti
 
 
 ## 📸 Dashboard Preview
+![Dashboard Churn Analysis](images/dashboard.png)
+
