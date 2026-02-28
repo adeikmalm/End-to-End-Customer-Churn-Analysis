@@ -238,7 +238,7 @@ Prioritize:
 
 ### 5️⃣ Future Phase — Predictive Modeling
 
-Develop ML model (Logistic Regression / XGBoost) to:
+Develop ML model (Decision Tree) to:
 
 * Predict churn probability
 * Score customers
